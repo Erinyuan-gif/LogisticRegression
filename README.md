@@ -6,7 +6,7 @@ Two datasets were from LendingClub and Prosper from 2012 Q1 to 2014 Q1. Some of 
 
 The size of LendingClub dataset is (193,686, 11)  and The size of Prosper dataset is (49,648, 11).
 
-Procedures for model:
+Procedures to test whether models are transferrable: (LC stands for LendingClub)
 1. train on LC and test on LC
 2. train on LC and test on Prosper
 3. train on Prosper and test on Prosper
